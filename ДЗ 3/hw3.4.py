@@ -33,7 +33,7 @@ def analyze_file(file_path):
         return f"Произошла ошибка: {e}"
 
 # Путь к вашему файлу
-result = analyze_file('test.txt')  # Измените 'example.txt' на нужный путь, если необходимо
+result = analyze_file('test.txt')
 
 # Вывод результата
 print(result)
