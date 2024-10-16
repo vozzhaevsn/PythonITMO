@@ -1,0 +1,11 @@
+Контакты:
+
+ТехноСервис:
+Email: teh@tehnoservice.ru
+Телефон: +7(900)555-0199
+Домашний уют:
+Email: uyt@domashniyuyut.ru
+Телефон: +7(995)123-4567
+Медицинский центр:
+Email: konsul@medservice.ru
+Телефон: +7(900)555-0123
