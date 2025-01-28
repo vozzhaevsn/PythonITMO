@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall
+Logistic Regression,1.0,1.0,1.0
+SVM,1.0,1.0,1.0
+KNN,0.9444444444444444,0.9493827160493827,0.9444444444444444
+Random Forest,1.0,1.0,1.0
